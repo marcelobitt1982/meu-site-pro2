@@ -18,6 +18,9 @@
     text-align: center;
 }
 body {
+    max-width: 1000px;
+    margin: auto;
+    margin-bottom: 30px;
     background-color: #1C85EB;
     font-family: Arial, Helvetica, sans-serif;
     
@@ -49,10 +52,9 @@ main {
 
 
 header > h2 {
-    position: relative;
-   font-size: .8em;
-   background-image: linear-gradient(to right, rgb(255, 145, 0), rgb(208, 255, 0));
-   min-height: 0px;
+    font-size: .8em;
+    background-image: linear-gradient(to right, rgb(255, 145, 0), rgb(208, 255, 0));
+    min-height: 0px;
     text-align: center;
     margin: 20px;
     padding: 5px;
