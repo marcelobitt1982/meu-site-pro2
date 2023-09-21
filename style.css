@@ -49,9 +49,9 @@ main {
 
 
 header > h2 {
-    position: fixed;
-   font-size: 1em;
-   background-color: yellow;
+    position: relative;
+   font-size: .8em;
+   background-image: linear-gradient(to right, rgb(255, 145, 0), rgb(208, 255, 0));
    min-height: 0px;
     text-align: center;
     margin: 20px;
