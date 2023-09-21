@@ -49,12 +49,13 @@ main {
 
 
 header > h2 {
+    position: fixed;
    font-size: 1em;
    background-color: yellow;
    min-height: 0px;
     text-align: center;
     margin: 20px;
-    padding: 0px;
+    padding: 5px;
     box-shadow: 2px 7px 7px black;
     border-radius: 15px 0px;
 
