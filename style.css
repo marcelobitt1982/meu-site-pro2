@@ -50,6 +50,14 @@ main h1 {
     font-size: 2em;
 }
 
+main > img {
+    margin: 0px;
+    width: 100%;
+    border-radius: 20px 0px;
+    box-shadow: 2px 7px 7px black;
+
+}
+
 nav {
     
     margin: 20px;
