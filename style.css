@@ -13,9 +13,9 @@
 
 * {
     
-    margin: 0px;
+    /* margin: 0px;
     padding: 0px;
-    text-align: center;
+    text-align: center; */
 }
 body {
     max-width: 1000px;
@@ -25,19 +25,21 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     
     
-    
 }
 
 header {
     min-height: 80px;
     text-align: center;
+    text-align: center;
 
 }
+
 header > img {
     max-width: 400px;
     margin-top: 0px;
     margin-bottom: 0px;
     padding: 0px;
+    text-align: center;
 }
 
 main {
@@ -46,10 +48,12 @@ main {
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
+    text-align: center;
 }
 main > h1 {
     text-align: center;
     background-image: linear-gradient(to right, rgb(255, 145, 0), rgb(208, 255, 0));
+    text-align: center;
 
 }
 
@@ -64,6 +68,7 @@ header > h2 {
     padding: 5px;
     box-shadow: 2px 7px 7px black;
     border-radius: 15px 0px;
+    text-align: center;
 
 }
 
@@ -74,6 +79,7 @@ main > img {
     width: 100%;
     border-radius: 20px 0px;
     box-shadow: 2px 7px 7px black;
+    text-align: center;
 
 }
 
@@ -84,6 +90,7 @@ nav {
     background-color: rgba(255, 255, 255, 0.384);
     border-radius: 10px;
     box-shadow: 2px 7px 7px black;
+    text-align: center;
 }
 
 nav > a {
@@ -91,8 +98,16 @@ nav > a {
     font-size: 20px;
     color: yellow;
     margin: 10px;
+    text-align: center;
     
     
+}
+
+
+ol {
+    margin: 50px;
+    padding: 10px;
+    background-color: white;
 }
 
 footer {
@@ -104,5 +119,6 @@ footer {
     background-color: rgba(255, 255, 255, 0.384);
     border-radius: 10px;
     box-shadow: 2px 7px 7px black;
+    
 }
 
