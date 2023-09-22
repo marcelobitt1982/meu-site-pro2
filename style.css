@@ -47,6 +47,11 @@ main {
     margin-bottom: 30px;
     padding: 20px;
 }
+main > h1 {
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(255, 145, 0), rgb(208, 255, 0));
+
+}
 
 
 
