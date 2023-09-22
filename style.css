@@ -99,8 +99,14 @@ nav > a {
     color: yellow;
     margin: 10px;
     text-align: center;
-    
-    
+}
+
+img {
+    margin: 0px;
+    width: 100%;
+    border-radius: 20px 0px;
+    box-shadow: 2px 7px 7px black;
+    text-align: center;
 }
 
 
