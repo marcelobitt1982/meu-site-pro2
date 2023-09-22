@@ -107,7 +107,19 @@ nav > a {
 ol {
     margin: 50px;
     padding: 10px;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.384);
+    border-radius: 20px;
+    box-shadow: 2px 7px 7px black;
+}
+
+section {
+    font-size: .8em;
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+    background-color: #eaff00;
+    box-shadow: 2px 7px 7px black;
+    border-radius: 15px 0px;
 }
 
 footer {
@@ -115,7 +127,7 @@ footer {
     text-align: center;
     font-size: 0.5em;
     margin: 5px;
-    padding: 1px;
+    padding: 0px;
     background-color: rgba(255, 255, 255, 0.384);
     border-radius: 10px;
     box-shadow: 2px 7px 7px black;
